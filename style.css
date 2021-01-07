@@ -1,0 +1,52 @@
+@media (max-width:500px) {
+     textarea {
+       height: 100px;
+       line-height:1.25;
+     }
+     button {
+          background-color:red;
+          cursor:pointer;
+          color:red;
+          font-family:Arial;
+          font-size:50px;
+          padding:50px 60px;
+          text-decoration:none;
+     }
+     }
+      
+     .button0 {
+       font-size:20px;
+       padding:50px 60px;
+     }
+     
+     textarea {
+         background-color: #000;
+         border: 1px solid #000;
+         color: #ffffff;
+         padding: 8px;
+         font-family: courier new;
+     }
+     
+     body {
+         background-color: black;
+     }
+     
+     input {
+         background-color: white;
+         color: black;
+     
+     }
+     
+     button {
+          background-color:red;
+          cursor:pointer;
+          color:yellow;
+          font-family:Arial;
+          font-size:17px;
+          padding:7px 8px;
+          text-decoration:none;
+     }
+     button:active {
+          position:relative;
+          top:1px;
+     }
